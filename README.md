@@ -12,9 +12,15 @@
 
 ![Sehun-github's github stats](https://github-readme-stats.vercel.app/api?username=Sehun-github&show_icons=true)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev)](https://hits.seeyoufarm.com)                
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sehun-github)](https://hits.seeyoufarm.com)
 
 
+</div>
+  
+  
 <!--
 **Sehun-github/Sehun-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
