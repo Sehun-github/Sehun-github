@@ -8,21 +8,36 @@
 - 🌱 Learning Python & Visualization
 - 💬 Ask me about
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp; <br>
+<a href='https://www.python.org/'>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
+</a>
+<a href='https://jupyter.org/'>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp;
+</a>
+<a href='https://github.com/'>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
+</a>
+<a href='https://www.tableau.com/'>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>&nbsp;
+</a>
+<a href='https://www.mysql.com/'>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;<br>
+</a>
 
 ![Sehun-github's github stats](https://github-readme-stats.vercel.app/api?username=Sehun-github&show_icons=true)
 
-E-mail : dlatpgns201@naver.com, tpgns62189@gmil.com <br><br>
+E-mail : tpgns62189@gmil.com, dlatpgns201@naver.com <br>
+
 <a href='https://slack.com/intl/ko-kr/'>
- <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>&nbsp;
 </a>
 <a href='https://mail.google.com/'>
-<img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/>&nbsp;
 </a>
+<a href='https://mail.naver.com/'>
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>&nbsp;
+</a>
+
 
 <div align=center>
   
