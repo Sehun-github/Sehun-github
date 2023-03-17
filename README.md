@@ -20,7 +20,7 @@ E-mail : dlatpgns201@naver.com, tpgns62189@gmil.com <br><br>
 <a href='https://slack.com/intl/ko-kr/'>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp;
 </a>
-<a href='https:/gmiil.com/'>
+<a href='https://mail.google.com/'>
 <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>&nbsp;
 </a>
 
