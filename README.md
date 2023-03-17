@@ -4,7 +4,6 @@
   
 </a>
 
-
 - 🌱 Learning Python & Visualization
 - 💬 Ask me about
 
@@ -22,7 +21,7 @@
 </a>
 <a href='https://www.mysql.com/'>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;<br>
-</a>
+</a><br>
 
 ![Sehun-github's github stats](https://github-readme-stats.vercel.app/api?username=Sehun-github&show_icons=true)
 
@@ -37,7 +36,7 @@ E-mail : tpgns62189@gmil.com, dlatpgns201@naver.com <br>
 <a href='https://mail.naver.com/'>
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>&nbsp;
 </a>
-<br>
+<br><br><br>
 
 <div align=center>
   
