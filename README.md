@@ -1,6 +1,6 @@
 <a href='https://github.com/Sehun-github?tab=repositories'>
   
-![Github](https://capsule-render.vercel.app/api?type=slice&color=&height=300&section=header&text=Welcom&fontSize=80&rotate=20&fontAlign=70&fontAlignY=23&animation=fadeIn&desc=Sehun's%20Github&descSize=25&descAlign=83&descAlignY=40)
+![Github](https://capsule-render.vercel.app/api?type=slice&color=FFCC99&height=300&section=header&text=Welcom&fontSize=80&rotate=20&fontAlign=70&fontAlignY=23&animation=fadeIn&desc=Sehun's%20Github&descSize=25&descAlign=83&descAlignY=40)
   
 </a>
 
